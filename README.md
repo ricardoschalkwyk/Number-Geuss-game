@@ -1,3 +1,27 @@
+# Rules of the game
+
+The rules of the game is to remember a set of numbers that are displayed within a 5 second period.
+
+Once you press `start game` a box will be displayed with a timer above it, you will have 5 second to
+memorize these numbers.
+
+When the timer runs out the numbers will be removed and you will be shown a few buttons that will
+have numbers on them.
+
+You will then have to click these buttons to give your answer and when you have given the answer it will
+show a `modal` which will indicate whether you have won or lost.
+
+# Install `node_modules`
+
+You will have to navigate to the folder which holds the files for this project using your terminal/command-line.
+
+Once you have navigated to the file you should then type `npm install` to install the node_modules that are necesarry to
+run the app.
+
+The rest of the instructions are below like typing `npm start` after installing the modules.(`Should also be done in the terminal/command-line when inside the folder.`)
+
+This will then run the app in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
